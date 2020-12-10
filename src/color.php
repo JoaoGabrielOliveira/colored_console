@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyper\Console;
+namespace Hyper\Useful\Console;
 
 abstract class Color
 {
